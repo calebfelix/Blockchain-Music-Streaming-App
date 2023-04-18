@@ -17,12 +17,12 @@
 
 ### 2. Install Dependencies:
 ```
-$ cd music_nfts
+$ cd Blockchain-Music-Streaming-App
 $ npm install
 ```
 ### 3. Boot up local development blockchain
 ```
-$ cd music_nfts
+$ cd Blockchain-Music-Streaming-App
 $ npx hardhat node
 ```
 
